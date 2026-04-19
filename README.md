@@ -22,11 +22,11 @@ Segment customers into meaningful groups using data analysis and provide actiona
 ## 📊 Dataset
 Customer dataset containing:
 
-- `CustomerID` → Unique identifier  
-- `Gender` → Male/Female  
-- `Age` → Customer age  
-- `Annual Income (k$)` → Income level  
-- `Spending Score (1–100)` → Spending behavior  
+- **CustomerID** → Unique identifier  
+- **Gender** → Male/Female  
+- **Age** → Customer age  
+- **Annual Income (k$)** → Income level  
+- **Spending Score (1–100)** → Spending behavior  
 
 ---
 
@@ -42,7 +42,7 @@ Customer dataset containing:
 
 ### 3. Clustering (K-Means)
 - Applied **K-Means Clustering** algorithm  
-- Determined optimal number of clusters using **Elbow Method**  
+- Determined optimal number of clusters using the **Elbow Method**  
 
 ### 4. Segment Analysis
 - Interpreted each cluster based on income and spending patterns  
@@ -51,7 +51,6 @@ Customer dataset containing:
 ---
 
 ## 📈 Key Insights
-
 - Identified distinct customer segments based on income and spending behavior  
 - High-income, high-spending customers contribute significantly to revenue  
 - Mid-income customers show potential for upselling  
@@ -60,7 +59,6 @@ Customer dataset containing:
 ---
 
 ## 🚀 Business Recommendations
-
 - 🎯 Target high-value customers with premium offerings  
 - 📈 Upsell mid-value customers through personalized campaigns  
 - 📉 Engage low-spending customers using discounts and promotions  
@@ -94,9 +92,3 @@ Customer dataset containing:
 git clone https://github.com/Harshu2326/Customer-Segmentation-Project.git
 cd Customer-Segmentation-Project
 pip install -r requirements.txt
-
-
-👤 Author
-Harika Komatireddy
-LinkedIn: https://www.linkedin.com/in/harika-komatyreddy
-GitHub: https://github.com/Harshu2326

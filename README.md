@@ -94,9 +94,9 @@ Customer dataset containing:
 git clone https://github.com/Harshu2326/Customer-Segmentation-Project.git
 cd Customer-Segmentation-Project
 pip install -r requirements.txt
+
+
 👤 Author
-
 Harika Komatireddy
-
 LinkedIn: https://www.linkedin.com/in/harika-komatyreddy
 GitHub: https://github.com/Harshu2326
